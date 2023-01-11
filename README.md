@@ -1,6 +1,7 @@
 # Projet 1 - OpenClassrooms : "Analysez des données de systèmes éducatifs"
 
 L'entreprise "Academy" est une start-up de la EdTech qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
+
 L'entreprise a un projet d’expansion à l’international. Dans cette optique, elle souhaiterait réaliser une analyse des données sur l’éducation dans le monde disponible sur le site de la banque mondiale.
 
 ## Desription du projet :

@@ -1,4 +1,4 @@
-# Projet 1 - OpenClassrooms : "Analysez des données de systèmes éducatifs"
+# Projet 1 : "Analysez des données de systèmes éducatifs"
 
 L'entreprise "Academy" est une start-up de la EdTech qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
 

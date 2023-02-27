@@ -4,7 +4,7 @@ L'entreprise "Academy" est une start-up de la EdTech qui propose des contenus de
 
 L'entreprise a un projet d’expansion à l’international. Dans cette optique, elle souhaiterait réaliser une analyse des données sur l’éducation dans le monde disponible sur le site de la banque mondiale.
 
-## Desription du projet :
+## Description du projet :
 - Valider la qualité du jeu de données.
 - Décrire les informations contenues dans le jeu de données.
 - Sélectionner les informations qui semblent pertinentes pour répondre à la problématique.
